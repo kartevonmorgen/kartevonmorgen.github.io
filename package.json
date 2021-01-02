@@ -1,0 +1,15 @@
+{
+  "name": "kern",
+  "collaborators": [
+    "Markus Kohlhase <markus.kohlhase@slowtec.de>"
+  ],
+  "version": "0.0.0",
+  "files": [
+    "kern_bg.wasm",
+    "kern.js",
+    "kern.d.ts"
+  ],
+  "module": "kern.js",
+  "types": "kern.d.ts",
+  "sideEffects": false
+}
